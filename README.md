@@ -3,10 +3,10 @@
 
 This repo contains all of my personal LeetCode solutions. The coding solutions provided within this repo are entirely provided by me.
   
-Also I try to add all the solutions of Leetcode problems(I fetched it from internet) which help me sometimes to see the clue if I lost somewhere while solving the problems.
+Also I try to add all important Leetcode problems which helps to crack important companies interview.
 
   
- All LeetCode Questions Solution
+ All Important LeetCode Questions
 ========
 
 ### LeetCode Algorithm
