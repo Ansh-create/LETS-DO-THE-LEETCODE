@@ -6,7 +6,7 @@ This repo contains all of my personal LeetCode solutions. The coding solutions p
 Also I try to add all the solutions of Leetcode problems(I fetched it from internet) which help me sometimes to see the clue if I lost somewhere while solving the problems.
 
   
-  LeetCode
+ All LeetCode Questions Solution
 ========
 
 ### LeetCode Algorithm
