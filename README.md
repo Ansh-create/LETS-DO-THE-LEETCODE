@@ -1,2 +1,2 @@
 <div align="center">
-<img src="https://github.com/CrutchTheClutch/LeetCode/raw/master/logo.png" width="450" height="auto"/>
+<img src="https://github.com/Ansh-create/Lets-do-the-LeetCode/blob/main/logo.png" width="450" height="auto"/>
