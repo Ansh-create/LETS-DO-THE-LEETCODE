@@ -23,19 +23,23 @@ int main() {
 
 
 pair<long long, long long> getMinMax(long long a[], int n) {
-    long long max= a[0];
-    long long min = a[0];
-    for (long long i=0;i<n;i++)
+    pair<long long, long long> maxmin;
+    int max= INT_MIN;
+    int min = INT_MAX;
+    for(int i=0; i<n; i++)
     {
-        if(a[i]>max){
-            max=a[i];
+        if (max<a[i])
+        {
+            max= a[i];
         }
-        else if(a[i]<min){
+        if (min>a[i])
+        {
             min=a[i];
         }
         
-        
+
     }
-    a[0]=max;
-    n=min;
+    maxmin= make_pair(min, max);
+    return maxmin;
+    
 }
